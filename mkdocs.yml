@@ -1,2 +1,9 @@
-site_name: Relatorio de segurança  de redes de computadores
-site_dir: /var/www/html
+site_name: Relatório de GSR
+# site_dir: /var/www/[...]
+theme:
+     name: material
+     language: pt
+
+plugins:
+    - search
+    - mermaid2
